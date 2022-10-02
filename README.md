@@ -10,7 +10,7 @@ iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻�
 
 ### 1.  官方文档 // Translation of official documents
 
-| Target                                                                                                                                                                                                                                            | Translation                                                                                                                                                               | author                                                  | notes   |
+| Target                                                                                                                                                                                                                                            | Translation                                                                                                                                                               | Author                                                  | Notes   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------- |
 | [Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)                                        | [Programming with Objective-C 翻译计划](https://www.jianshu.com/p/e19822ba4e52)                                                                                               | [@ameerkat](https://www.jianshu.com/u/1f618f877e9e)     | 简书      |
 |                                                                                                                                                                                                                                                   | [用Objective-C编程](https://zhouzhongguang.gitbooks.io/ios/content/yong-objective-c-bian-cheng-ff08-programming-with-objective-c.html)                                       | [@Vincentzzg](https://github.com/Vincentzzg)            | gitbook |
@@ -31,10 +31,11 @@ iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻�
 
 ### 2. 非官方文档或书籍 // Translation of unofficial documents or books
 
-| Target                                                                                                                                                                                                                      | Translation                                                                                                        | status |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ |
-| [《iOS Core Animation: Advanced Techniques》](https://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniqueshttps://) | [iOS Core Animation: Advanced Techniques中文译本](https://zsisme.gitbooks.io/ios-/content/index.html)                  |        |
-| [《The Swift Programming Language》](https://www.swift.org/documentation/)                                                                                                                                                    | [《The Swift Programming Language》in Chinese](https://github.com/evenluo/the-swift-programming-language-in-chinese) |        |
+| Target                                                                                                                                                                                                                      | Translation                                                                                                        | Author | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ | ----- |
+| [《iOS Core Animation: Advanced Techniques》](https://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniqueshttps://) | [iOS Core Animation: Advanced Techniques中文译本](https://zsisme.gitbooks.io/ios-/content/index.html)                  |        |       |
+| [《The Swift Programming Language》](https://www.swift.org/documentation/)                                                                                                                                                    | [《The Swift Programming Language》in Chinese](https://github.com/evenluo/the-swift-programming-language-in-chinese) |        |       |
+| [Hit-Testing in iOS](https://smnh.me/hit-testing-in-ios)                                                                                                                                                                    | -                                                                                                                  | -      | 推荐    |
 
 ## iOS Resource List
 
@@ -47,9 +48,10 @@ iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻�
 7. [iOS-learning-resources](https://github.com/sanketfirodiya/iOS-learning-resources)
 8. [中文iOS & Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 9. [iOS开发中文版书籍大全，epub格式](https://github.com/imlifengfeng/iOSDevBookZH)
-10. [iOS中文文档及精品资源](https://github.com/mytcer/ios-docs-cn)
-11. [GitHub - 0oneo/iOSTranslation: 一些 iOS 的翻译](https://github.com/0oneo/iOSTranslation) *
-12. [未知私人整理](https://zhouzhongguang.gitbooks.io/ios/content/)
+10. [iOS中文文档及精品资源](https://github.com/mytcer/ios-docs-cn) *
+11. [ObjC 中国 - 期刊](https://objccn.io/issues/)
+12. [GitHub - 0oneo/iOSTranslation: 一些 iOS 的翻译](https://github.com/0oneo/iOSTranslation) *
+13. [未知私人整理](https://zhouzhongguang.gitbooks.io/ios/content/)
 
 ## MileStone
 
