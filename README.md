@@ -1,6 +1,6 @@
 # iOS-Chinese-Translation-List
 
-iOS 的中文翻译列表，直接阅读中文翻译文档的效率更高，讨论组：[discord](https://discord.gg/ceGStQPD)
+iOS 的中文翻译列表，直接阅读中文翻译文档的效率更高，讨论组：[discord](https://discord.gg/UTxGGftG6e)
 
 iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻译，但是良莠不齐，需要整理编排。
 
