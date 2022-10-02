@@ -29,8 +29,6 @@ iOS 的相关文档的中文翻译列表
 | [Core Animation Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)                  | [Core Animation文档翻译 ](https://www.cnblogs.com/zhouyubo/p/8279741.html)      | to check  | 博客园   |
 | [Objective-C Runtime Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Articles/ocrtVersionsPlatforms.html#//apple_ref/doc/uid/TP40008048-CH106-SW1) | [Objective-C Runtime 文档翻译](https://www.cnblogs.com/zhouyubo/p/8435126.html) | to check  | 博客园   |
 
-# Core Animation Programming Guide
-
 ### 2. 非官方文档或书籍 // Translation of unofficial documents or books
 
 | Target                                                                                                                                                                                                                    | Translation                                                                                       | status |
@@ -45,7 +43,8 @@ iOS 的相关文档的中文翻译列表
 3. [中文iOS & Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 4. [*iOS*开发中文版书籍大全，epub格式](https://github.com/imlifengfeng/iOSDevBookZH)
 5. [iOS中文文档及精品资源](https://github.com/mytcer/ios-docs-cn)
-6. 
+
+
 
 ## MileStone
 
