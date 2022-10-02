@@ -41,7 +41,7 @@ iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻�
 
 1. [awesome-ios](https://github.com/vsouza/awesome-ios)
 2. [iOS 资源聚合文档](https://github.com/kechengsou/awesome-ios) *
-3. [aweme-ios-animation]([GitHub - ameizi/awesome-ios-animation: A curated list of awesome iOS animation, including Objective-C and Swift libraries](https://github.com/ameizi/awesome-ios-animation))
+3. [aweme-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 4. [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart)
 5. [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) *
 6. [iOS 资源大全中文版本](https://github.com/jobbole/awesome-ios-cn)
