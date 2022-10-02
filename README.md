@@ -4,7 +4,7 @@
 
 iOS 的中文翻译列表，直接阅读中文翻译文档的效率更高，讨论组：[discord](https://discord.gg/UTxGGftG6e)
 
-iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻译，但是良莠不齐，需要整理编排。
+iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻译，但是良莠不齐，需要整理筛选编排。
 
 ## Details
 
@@ -34,18 +34,24 @@ iOS 的中文生态还是不太好，核心机制的文档基本都找得到翻�
 | Target                                                                                                                                                                                                                      | Translation                                                                                                        | status |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ |
 | [《iOS Core Animation: Advanced Techniques》](https://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniqueshttps://) | [iOS Core Animation: Advanced Techniques中文译本](https://zsisme.gitbooks.io/ios-/content/index.html)                  |        |
-| 《The Swift Programming Language》                                                                                                                                                                                            | [《The Swift Programming Language》in Chinese](https://github.com/evenluo/the-swift-programming-language-in-chinese) |        |
+| [《The Swift Programming Language》](https://www.swift.org/documentation/)                                                                                                                                                    | [《The Swift Programming Language》in Chinese](https://github.com/evenluo/the-swift-programming-language-in-chinese) |        |
 
 ## iOS Resource List
 
-1. [iOS 资源大全中版本](https://github.com/jobbole/awesome-ios-cn)
-2. [iOS-learning-resources](https://github.com/sanketfirodiya/iOS-learning-resources)
-3. [中文iOS & Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
-4. [iOS开发中文版书籍大全，epub格式](https://github.com/imlifengfeng/iOSDevBookZH)
-5. [iOS中文文档及精品资源](https://github.com/mytcer/ios-docs-cn)
-6. [GitHub - 0oneo/iOSTranslation: 一些 iOS 的翻译](https://github.com/0oneo/iOSTranslation) *
-7. [未知私人整理](https://zhouzhongguang.gitbooks.io/ios/content/)
+1. [awesome-ios](https://github.com/vsouza/awesome-ios)
+2. [iOS 资源聚合文档](https://github.com/kechengsou/awesome-ios) *
+3. [aweme-ios-animation]([GitHub - ameizi/awesome-ios-animation: A curated list of awesome iOS animation, including Objective-C and Swift libraries](https://github.com/ameizi/awesome-ios-animation))
+4. [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart)
+5. [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) *
+6. [iOS 资源大全中文版本](https://github.com/jobbole/awesome-ios-cn)
+7. [iOS-learning-resources](https://github.com/sanketfirodiya/iOS-learning-resources)
+8. [中文iOS & Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+9. [iOS开发中文版书籍大全，epub格式](https://github.com/imlifengfeng/iOSDevBookZH)
+10. [iOS中文文档及精品资源](https://github.com/mytcer/ios-docs-cn)
+11. [GitHub - 0oneo/iOSTranslation: 一些 iOS 的翻译](https://github.com/0oneo/iOSTranslation) *
+12. [未知私人整理](https://zhouzhongguang.gitbooks.io/ios/content/)
 
 ## MileStone
 
+* 2022-10-4: complete demo
 * 2022-10-3: create repo & first commit
